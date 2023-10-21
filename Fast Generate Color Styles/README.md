@@ -6,7 +6,7 @@ This plugin was meticulously crafted to elevate your workflow by providing a sea
 1. Find and try out this plugin on Community
 2. Click an object with Fills (color) property
 3. Run plugin
-4. Plugin will create 9 shade of color and add all of these color to your style,
+4. Plugin will create 9 shades of color and add all of these colors to your style,
 
 ## License
 
